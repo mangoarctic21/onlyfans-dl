@@ -1,4 +1,4 @@
-THE GREAT KORNHOLIO PRESENTS
+THE GREAT KORNHOLIO PRESENTS (with minor adjustments to keep it alive by mangoarctic21)
 
 # OnlyFans Profile Downloader/Archiver
 This tool downloads all photos/videos from an OnlyFans profile, creating a local archive.
